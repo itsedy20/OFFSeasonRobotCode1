@@ -1,0 +1,184 @@
+{
+  "waypoints": [
+    {
+      "anchorPoint": {
+        "x": 1.904335387618144,
+        "y": 4.95
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 2.4727856598570344,
+        "y": 4.98153053448964
+      },
+      "holonomicAngle": 180.0,
+      "isReversal": false,
+      "velOverride": null,
+      "isLocked": false,
+      "isStopPoint": false,
+      "stopEvent": {
+        "names": [],
+        "executionBehavior": "parallel",
+        "waitBehavior": "none",
+        "waitTime": 0
+      }
+    },
+    {
+      "anchorPoint": {
+        "x": 6.25,
+        "y": 4.595032475779237
+      },
+      "prevControl": {
+        "x": 5.808120759098661,
+        "y": 4.595032475779237
+      },
+      "nextControl": {
+        "x": 7.33829710011991,
+        "y": 4.595032475779237
+      },
+      "holonomicAngle": 0.0,
+      "isReversal": false,
+      "velOverride": null,
+      "isLocked": false,
+      "isStopPoint": false,
+      "stopEvent": {
+        "names": [],
+        "executionBehavior": "parallel",
+        "waitBehavior": "none",
+        "waitTime": 0
+      }
+    },
+    {
+      "anchorPoint": {
+        "x": 7.0,
+        "y": 4.6
+      },
+      "prevControl": {
+        "x": 7.193437348637554,
+        "y": 4.5928426285423996
+      },
+      "nextControl": {
+        "x": 6.806562651362446,
+        "y": 4.6071573714576
+      },
+      "holonomicAngle": 0,
+      "isReversal": false,
+      "velOverride": null,
+      "isLocked": false,
+      "isStopPoint": false,
+      "stopEvent": {
+        "names": [],
+        "executionBehavior": "parallel",
+        "waitBehavior": "none",
+        "waitTime": 0
+      }
+    },
+    {
+      "anchorPoint": {
+        "x": 4.2191842955114485,
+        "y": 4.723865162016039
+      },
+      "prevControl": {
+        "x": 5.192259800195757,
+        "y": 4.685705338302929
+      },
+      "nextControl": {
+        "x": 2.7590805181610363,
+        "y": 4.781124133676839
+      },
+      "holonomicAngle": 180.0,
+      "isReversal": false,
+      "velOverride": null,
+      "isLocked": false,
+      "isStopPoint": false,
+      "stopEvent": {
+        "names": [],
+        "executionBehavior": "parallel",
+        "waitBehavior": "none",
+        "waitTime": 0
+      }
+    },
+    {
+      "anchorPoint": {
+        "x": 1.9,
+        "y": 4.4
+      },
+      "prevControl": {
+        "x": 2.4935874983061677,
+        "y": 4.582372606249162
+      },
+      "nextControl": {
+        "x": 1.7427337711818283,
+        "y": 4.351681846220836
+      },
+      "holonomicAngle": 180.0,
+      "isReversal": false,
+      "velOverride": 3.0,
+      "isLocked": false,
+      "isStopPoint": false,
+      "stopEvent": {
+        "names": [],
+        "executionBehavior": "parallel",
+        "waitBehavior": "none",
+        "waitTime": 0
+      }
+    },
+    {
+      "anchorPoint": {
+        "x": 2.3,
+        "y": 3.3
+      },
+      "prevControl": {
+        "x": 2.2696338446411595,
+        "y": 3.512563087511881
+      },
+      "nextControl": {
+        "x": 2.3143147429152,
+        "y": 3.199796799593599
+      },
+      "holonomicAngle": 180.0,
+      "isReversal": false,
+      "velOverride": null,
+      "isLocked": false,
+      "isStopPoint": false,
+      "stopEvent": {
+        "names": [],
+        "executionBehavior": "parallel",
+        "waitBehavior": "none",
+        "waitTime": 0
+      }
+    },
+    {
+      "anchorPoint": {
+        "x": 4.5,
+        "y": 3.3
+      },
+      "prevControl": {
+        "x": 3.710289606992215,
+        "y": 3.3
+      },
+      "nextControl": null,
+      "holonomicAngle": -90.0,
+      "isReversal": false,
+      "velOverride": null,
+      "isLocked": false,
+      "isStopPoint": false,
+      "stopEvent": {
+        "names": [],
+        "executionBehavior": "parallel",
+        "waitBehavior": "none",
+        "waitTime": 0
+      }
+    }
+  ],
+  "maxVelocity": 5.0,
+  "maxAcceleration": 4.0,
+  "isReversed": null,
+  "markers": [
+    {
+      "position": 0.5272727272727272,
+      "names": [
+        "mark1"
+      ]
+    }
+  ]
+}
